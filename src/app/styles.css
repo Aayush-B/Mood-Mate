@@ -1,0 +1,24 @@
+
+
+h1 {
+    font-size: 80px;
+    text-transform: uppercase;
+    letter-spacing: -3px;
+    transition: 600ms ease;
+    font-variation-settings: "wght" 311;
+    margin-bottom: 0.1rem;
+    color: #2E8A99;
+    outline: none;
+    text-align: center;
+  }
+  
+  h1:hover {
+    font-variation-settings: "wght" 582; 
+    letter-spacing: 1px;
+  }
+
+
+.center {
+    margin: auto;
+    width: 50%;
+}
